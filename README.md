@@ -1,4 +1,5 @@
-"<style type="text/css">
+"
+<style type="text/css">
     #Profile
     {
         background-color: #000;
@@ -8,4 +9,5 @@
     </style>
 <div id="Profile">
     
-</div>"
+</div>
+"
